@@ -1,8 +1,8 @@
 # Multicontainer application
 
-To Run the Application
+To Run the Application run the command
 
-docker-compose up
+$ docker-compose up
 
 It contains React client, Node.js backend, PostgreSQL and Nginx
 
